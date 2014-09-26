@@ -1,0 +1,16 @@
+
+*.o
+
+*.pbxproj
+
+sort
+
+PA2.xcodeproj/xcuserdata/tim.xcuserdatad/xcschemes/xcschememanagement.plist
+
+PA2.xcodeproj/xcuserdata/tim.xcuserdatad/xcschemes/PA2.xcscheme
+
+PA2.xcodeproj/xcuserdata/tim.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+
+PA2.xcodeproj/project.xcworkspace/xcuserdata/tim.xcuserdatad/UserInterfaceState.xcuserstate
+
+PA2.xcodeproj/project.xcworkspace/contents.xcworkspacedata
