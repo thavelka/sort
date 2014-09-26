@@ -1,7 +1,9 @@
 sort
 ====
 
-Five integer sorting algorithms for unix, written in c++
+Five integer sorting algorithms for UNIX, written in C++
+
+To build, simply use `make` in the main directory
 
 The program usage is as follows. Note that options do not need to be specified in a fixed order. 
 
